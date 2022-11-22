@@ -22,11 +22,6 @@ article{
 }
 
 footer{
- background-color: olive;
- flex: 0 0 250px;
-}
-
-div{
 background-color: orange;
 flex: 1 1 100% ;
 }
