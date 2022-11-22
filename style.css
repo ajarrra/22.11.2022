@@ -31,3 +31,20 @@ background-color: orange;
 flex: 1 1 100% ;
 padding: 10px 15px;
 }
+
+
+section{
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+    margin: 0 auto;
+   
+}
+
+section div{
+    max-width: 200px;
+    margin: 10px;
+    justify-content: space-around;
+    text-align: left;
+}
